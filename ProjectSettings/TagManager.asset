@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - AllyCharacter
+  - EnemyCharacter
+  - AllyAttackBox
+  - EnemyAttackBox
+  - Building
+  - ResourceGenerator
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Building
+    uniqueID: 3462744607
+    locked: 0
+  - name: ResourceGenerator
+    uniqueID: 462846579
+    locked: 0
+  - name: Character
+    uniqueID: 2253152841
+    locked: 0
+  - name: Resource
+    uniqueID: 3914689171
+    locked: 0
+  - name: Projectile
+    uniqueID: 2679512125
+    locked: 0
+  - name: CharacterUI
+    uniqueID: 385394057
+    locked: 0
